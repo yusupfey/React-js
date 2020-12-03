@@ -1,0 +1,55 @@
+.header{
+    background-color: lightgreen;
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding:10px;
+    margin-bottom: 20px;
+}
+.cart{
+    position: relative;
+}
+.count{
+    background-color: red;
+    padding: 10px;
+    border-radius: 100%;
+    text-align: center;
+    position: absolute;
+    line-height: 5px;
+    bottom: -2px;
+    font-size: 11px;
+    left:-5px;
+    color: white;
+}
+.card{
+    margin: 20px;
+    box-shadow: 2px 2px 2px #ccc;
+    padding:10px;
+    border-radius: 10px;
+    width: 335px;
+}
+.img-thumb img{
+    width: 340px;
+}
+.act{
+    padding-left: 35px;
+}
+.card input{
+    height: 25px;
+    text-align: center;
+    font-size: 18px;
+    background: whitesmoke;
+    border-collapse: collapse;
+    border-radius: 20px;
+    border: none;
+}
+.card button{
+    height: 25px;
+    text-align: center;
+    font-size: 18px;
+    background: whitesmoke;
+    border-collapse: collapse;
+    border-radius: 4px;
+}
+

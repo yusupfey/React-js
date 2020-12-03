@@ -1,0 +1,19 @@
+.home{
+    margin: 40px;
+}
+.navigator{
+    background-color: rgb(4, 70, 250);
+    padding:20px 40px;
+}
+.navigator a{
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: rgb(250, 237, 183);
+    color:black;
+    padding:10px;
+    border-radius: 8px;
+}

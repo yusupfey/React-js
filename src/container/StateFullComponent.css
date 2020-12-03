@@ -1,0 +1,12 @@
+.box{
+    box-shadow: 2px 2px 2px #ccc;
+    height: 140px;
+    width: 200px;
+    padding:20px;
+    margin: 20px;
+}
+.text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:red;
+    font-size: 20px;
+}
